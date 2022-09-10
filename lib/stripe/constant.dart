@@ -1,0 +1,3 @@
+import 'package:flutter/material.dart';
+
+final String SECRET_KEY = "sk_test_51K0K5nLSY0NZTq27Vh6p68F1OoCckZZGYTAu8ivzxe78fah2l5k5Vhnbxeqz3YpKfkwjjqWxh1AqpjWzfn4EvapJ00mf0QFnRN";
